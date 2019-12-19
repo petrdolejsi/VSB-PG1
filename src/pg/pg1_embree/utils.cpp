@@ -1,4 +1,5 @@
 #include "stdafx.h"
+#include <functional>
 
 using std::mt19937;
 using std::uniform_real_distribution;

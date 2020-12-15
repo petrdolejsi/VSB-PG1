@@ -330,4 +330,5 @@ ASALocalRun/
 .mfractor/
 
 !data/6887_allied_avenger.obj
+!data/geosphere.obj
 !src/pg/pg1_embree/pg1_embree.vcxproj.user

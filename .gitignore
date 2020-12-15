@@ -328,3 +328,6 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
+
+!data/6887_allied_avenger.obj
+!src/pg/pg1_embree/pg1_embree.vcxproj.user
